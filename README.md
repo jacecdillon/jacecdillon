@@ -2,8 +2,8 @@
   <img src="./assets/Sandrone.gif" width="750" alt="Sandrone" />
 </div>
 
-### 💻 Tech Stack & Tools
 <div align="center">
+  ### 💻 Tech Stack & Tools
   <p>
   <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
