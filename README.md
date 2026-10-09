@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  ### 💻 Tech Stack & Tools
+  ## 💻 Tech Stack & Tools
   <p>
   <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
@@ -14,6 +14,14 @@
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+</div>
+
+<div>
+ ## 📊 GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?show_icons=true&theme=radical&username=jacecdillon" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&theme=radical&username=jacecdillon" width="48%" />
 </p>
 </div>
 
