@@ -4,7 +4,7 @@
 
 ## 💻 Tech Stack & Tools
 
-<div align="center">
+<div>
   <p>
     <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
     <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
@@ -19,6 +19,6 @@
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?show_icons=true&theme=radical&username=jacecdillon" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&theme=radical&username=jacecdillon&langs_count=6" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?show_icons=true&theme=matrix&username=jacecdillon" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&theme=matrix&username=jacecdillon&langs_count=6" width="48%" />
 </p>
