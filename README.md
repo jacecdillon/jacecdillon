@@ -5,6 +5,9 @@
 </div>
 
 ## Random dev on GitHub
+<p align="left">
+  <em>🚀 Software development student | Mostly building web apps but also trying new things | Fan of Souls games genre and Hoyo games I guess </em>
+</p>
 
 ## 💻 Tech Stack & Tools
 <p align="left">
