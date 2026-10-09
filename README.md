@@ -7,7 +7,6 @@
 ## Random dev on GitHub
 
 ## 💻 Tech Stack & Tools
-
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
@@ -20,11 +19,10 @@
 
 ## 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?show_icons=true&theme=tokyonight&username=jacecdillon" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&theme=tokyonight&username=jacecdillon&langs_count=6" width="48%" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jacecdillon&show_icons=true&theme=radical&hide_border=false&count_private=true&include_all_commits=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacecdillon&theme=radical&hide_border=false&layout=compact&langs_count=6" width="49%" />
 </p>
-
 ## 🐍 The Snake
 
 <p align="center">
