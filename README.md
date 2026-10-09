@@ -20,9 +20,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jacecdillon&show_icons=true&theme=radical&hide_border=false&count_private=true&include_all_commits=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacecdillon&theme=radical&hide_border=false&layout=compact&langs_count=6" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=jacecdillon&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&bg_color=6366f1,ec4899,f59e0b&title_color=ffffff&text_color=fef08a&icon_color=fef08a&border_color=4b5563" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacecdillon&hide_border=false&layout=compact&langs_count=6&bg_color=6366f1,ec4899,f59e0b&title_color=ffffff&text_color=fef08a&border_color=4b5563" width="40.5%" />
 </p>
+
 ## 🐍 The Snake
 
 <p align="center">
