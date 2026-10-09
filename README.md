@@ -19,10 +19,6 @@
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?show_icons=true&theme=radical&username=jacecdillon" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?show_icons=true&theme=radical&username=jacecdillon&hide=issues,prs,contribs" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&theme=radical&username=jacecdillon" width="48%" />
 </p>
-
-<div align="center">
-  <img src="./assets/Citlali.gif" width="750" alt="Citlali" />
-</div>
