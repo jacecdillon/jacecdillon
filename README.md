@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="./assets/Sandrone.gif" width="750" alt="Sandrone" />
+  <img src="./assets/Sandrone.gif" width="750" alt="Sandrone" style="border: 2px solid #7aa2f7; border-radius: 8px;" />
 </div>
+
+## Random dev on GitHub
 
 ## 💻 Tech Stack & Tools
 
