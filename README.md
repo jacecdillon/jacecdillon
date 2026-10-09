@@ -24,3 +24,9 @@
   <img src="https://github-readme-stats.vercel.app/api?show_icons=true&theme=tokyonight&username=jacecdillon" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&theme=tokyonight&username=jacecdillon&langs_count=6" width="48%" />
 </p>
+
+## 🐍 The Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jacecdillon/jacecdillon/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
