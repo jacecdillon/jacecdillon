@@ -4,7 +4,7 @@
   </a>
 </div>
 
-## Random dev on GitHub
+## Random person on GitHub
 <p align="left">
   <em>🚀 Software development student | Mostly building web apps but also trying new things | Fan of Souls games genre and Hoyo games I guess </em>
 </p>
